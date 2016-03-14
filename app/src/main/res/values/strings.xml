@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">ColourMemory</string>
+    <string name="title_activity_high_score">High Scores</string>
+    <string name="playerName">Name</string>
+    <string name="playerScore">Score</string>
+    <string name="playerRank">Rank</string>
+    <string name="enterPlayerName">Please Enter Your Name:</string>
+    <string name="enterPlayerNameHint">Your Name</string>
+    <string name="title">Congratulations..!!!</string>
+    <string name="message">Please Enter Your Name.</string>
+
+</resources>
